@@ -16,3 +16,8 @@ const cla = document.getElementsByClassName(" class name in string")
 
 // document.write() is used for testing
 // You can use an alert box to display data using window.alert()
+
+// You can skip window keyword
+
+// console.log(''); used for debugging
+
